@@ -10,6 +10,6 @@ My favorite projects are pinned below:<br>
 <br>
 :arrow_right: [the testing portfolio](https://github.com/jon-droz/testing-portfolio), originally created as part of the COLT initiative, in constant development<br>
 :arrow_right: [the shedule planner app](https://github.com/jon-droz/INCODE-course-schedule-app)<br> 
-:arrow_right: [the contact form page](https://github.com/jon-droz/INCODE-course-contact-form) with validation unit tests written in Jest<br>
+:arrow_right: [the contact form page](https://github.com/jon-droz/INCODE-course-contact-form) with form validation rules tests written in Jest<br>
 
 
